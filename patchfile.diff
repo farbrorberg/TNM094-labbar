@@ -1,0 +1,9 @@
+diff -rupN src/coolstuff src.new/coolstuff
+--- src/coolstuff	2016-01-27 13:33:22.176170100 +0100
++++ src.new/coolstuff	2016-01-27 13:19:47.887774600 +0100
+@@ -1,2 +1,2 @@
+  Här sker coola grejer först
+- douche
+\ No newline at end of file
++ 
+\ No newline at end of file
