@@ -1,0 +1,2 @@
+task 1: diff -rupN src/ src.new/ > patchfile.diff
+ 
